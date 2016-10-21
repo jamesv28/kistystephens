@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Satisfy');
+
+/******* font types ****/
+html, body {
+    font-family: 'Lora', serif;
+    background: #F4F4F4;
+}
+.name {
+    font-family: 'Satisfy', cursive;
+    margin-top: 50%;
+    font-size: 6rem;
+}
+
+.right {
+    height: 100vh;
+}
+
+
+#bio {
+    background-image: url("../img/Kisty 50.5.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    /*width: 50vw;*/
+    padding:0;
+    margin: 0;
+    float: left;
+    position: fixed;
+
+}
+
